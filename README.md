@@ -7,7 +7,7 @@
 
 - Tengo experiencia laboral en desarrollo de full stack en Angular y C#, además de HTML5 y CSS con Tailwind. 
 
-- También programo con Python y C++ en proyectos de Inteligencia Artificial y computación gráfica.
+- También programo con Python y C++ en proyectos de computación gráfica.
 
 
 
